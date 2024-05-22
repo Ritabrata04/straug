@@ -23,7 +23,7 @@ class GaussianNoise:
         if self.rng.uniform(0, 1) > prob:
             return img
 
-        # c = self.rng.uniform(.08, .38)
+        c = self.rng.uniform(.08, .38)
         b = [.06, 0.09, 0.12]
         if mag < 0 or mag >= len(b):
             index = 0
@@ -80,7 +80,7 @@ class ImpulseNoise:
         # np.random.seed() accepts 32-bit integers only,
         # generate 4 to simulate a 128-bit state/seed.
         s = self.rng.integers(2 ** 32, size=4)
-        img = sk.util.random_noise(np.asarray(img) / 255., mode='s&p', seed=s, amount=c) * 255
+        img = sk.util.random_noise(np.asarray(img) / 255., mode='s&p', amount=c) * 255 #removed seed=s as argument
         return Image.fromarray(img.astype(np.uint8))
 
 
