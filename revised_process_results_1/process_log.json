@@ -145,25 +145,463 @@
     },
     {
         "file": "delivery.png",
-        "function": "grid",
+        "function": "fog",
         "magnitude": 1,
-        "output_file": "delivery_grid_1.png"
+        "output_file": "delivery_fog_1.png"
     },
     {
         "file": "delivery.png",
-        "function": "grid",
+        "function": "fog",
         "magnitude": 2,
-        "output_file": "delivery_grid_2.png"
+        "output_file": "delivery_fog_2.png"
     },
     {
         "file": "delivery.png",
-        "function": "grid",
+        "function": "fog",
         "magnitude": 3,
-        "output_file": "delivery_grid_3.png"
+        "output_file": "delivery_fog_3.png"
     },
     {
         "file": "delivery.png",
-        "error": "integer division or modulo by zero"
+        "function": "fog",
+        "magnitude": 4,
+        "output_file": "delivery_fog_4.png"
+    },
+    {
+        "file": "delivery.png",
+        "function": "snow",
+        "magnitude": 1,
+        "output_file": "delivery_snow_1.png"
+    },
+    {
+        "file": "delivery.png",
+        "function": "snow",
+        "magnitude": 2,
+        "output_file": "delivery_snow_2.png"
+    },
+    {
+        "file": "delivery.png",
+        "function": "snow",
+        "magnitude": 3,
+        "output_file": "delivery_snow_3.png"
+    },
+    {
+        "file": "delivery.png",
+        "function": "snow",
+        "magnitude": 4,
+        "output_file": "delivery_snow_4.png"
+    },
+    {
+        "file": "delivery.png",
+        "function": "frost",
+        "magnitude": 1,
+        "output_file": "delivery_frost_1.png"
+    },
+    {
+        "file": "delivery.png",
+        "function": "frost",
+        "magnitude": 2,
+        "output_file": "delivery_frost_2.png"
+    },
+    {
+        "file": "delivery.png",
+        "function": "frost",
+        "magnitude": 3,
+        "output_file": "delivery_frost_3.png"
+    },
+    {
+        "file": "delivery.png",
+        "function": "frost",
+        "magnitude": 4,
+        "output_file": "delivery_frost_4.png"
+    },
+    {
+        "file": "delivery.png",
+        "function": "rain",
+        "magnitude": 1,
+        "output_file": "delivery_rain_1.png"
+    },
+    {
+        "file": "delivery.png",
+        "function": "rain",
+        "magnitude": 2,
+        "output_file": "delivery_rain_2.png"
+    },
+    {
+        "file": "delivery.png",
+        "function": "rain",
+        "magnitude": 3,
+        "output_file": "delivery_rain_3.png"
+    },
+    {
+        "file": "delivery.png",
+        "function": "rain",
+        "magnitude": 4,
+        "output_file": "delivery_rain_4.png"
+    },
+    {
+        "file": "delivery.png",
+        "function": "shadow",
+        "magnitude": 1,
+        "output_file": "delivery_shadow_1.png"
+    },
+    {
+        "file": "delivery.png",
+        "function": "shadow",
+        "magnitude": 2,
+        "output_file": "delivery_shadow_2.png"
+    },
+    {
+        "file": "delivery.png",
+        "function": "shadow",
+        "magnitude": 3,
+        "output_file": "delivery_shadow_3.png"
+    },
+    {
+        "file": "delivery.png",
+        "function": "shadow",
+        "magnitude": 4,
+        "output_file": "delivery_shadow_4.png"
+    },
+    {
+        "file": "delivery.png",
+        "function": "contrast",
+        "magnitude": 1,
+        "output_file": "delivery_contrast_1.png"
+    },
+    {
+        "file": "delivery.png",
+        "function": "contrast",
+        "magnitude": 2,
+        "output_file": "delivery_contrast_2.png"
+    },
+    {
+        "file": "delivery.png",
+        "function": "contrast",
+        "magnitude": 3,
+        "output_file": "delivery_contrast_3.png"
+    },
+    {
+        "file": "delivery.png",
+        "function": "contrast",
+        "magnitude": 4,
+        "output_file": "delivery_contrast_4.png"
+    },
+    {
+        "file": "delivery.png",
+        "function": "brightness",
+        "magnitude": 1,
+        "output_file": "delivery_brightness_1.png"
+    },
+    {
+        "file": "delivery.png",
+        "function": "brightness",
+        "magnitude": 2,
+        "output_file": "delivery_brightness_2.png"
+    },
+    {
+        "file": "delivery.png",
+        "function": "brightness",
+        "magnitude": 3,
+        "output_file": "delivery_brightness_3.png"
+    },
+    {
+        "file": "delivery.png",
+        "function": "brightness",
+        "magnitude": 4,
+        "output_file": "delivery_brightness_4.png"
+    },
+    {
+        "file": "delivery.png",
+        "function": "jpegcompression",
+        "magnitude": 1,
+        "output_file": "delivery_jpegcompression_1.png"
+    },
+    {
+        "file": "delivery.png",
+        "function": "jpegcompression",
+        "magnitude": 2,
+        "output_file": "delivery_jpegcompression_2.png"
+    },
+    {
+        "file": "delivery.png",
+        "function": "jpegcompression",
+        "magnitude": 3,
+        "output_file": "delivery_jpegcompression_3.png"
+    },
+    {
+        "file": "delivery.png",
+        "function": "jpegcompression",
+        "magnitude": 4,
+        "output_file": "delivery_jpegcompression_4.png"
+    },
+    {
+        "file": "delivery.png",
+        "function": "pixelate",
+        "magnitude": 1,
+        "output_file": "delivery_pixelate_1.png"
+    },
+    {
+        "file": "delivery.png",
+        "function": "pixelate",
+        "magnitude": 2,
+        "output_file": "delivery_pixelate_2.png"
+    },
+    {
+        "file": "delivery.png",
+        "function": "pixelate",
+        "magnitude": 3,
+        "output_file": "delivery_pixelate_3.png"
+    },
+    {
+        "file": "delivery.png",
+        "function": "pixelate",
+        "magnitude": 4,
+        "output_file": "delivery_pixelate_4.png"
+    },
+    {
+        "file": "delivery.png",
+        "function": "posterize",
+        "magnitude": 1,
+        "output_file": "delivery_posterize_1.png"
+    },
+    {
+        "file": "delivery.png",
+        "function": "posterize",
+        "magnitude": 2,
+        "output_file": "delivery_posterize_2.png"
+    },
+    {
+        "file": "delivery.png",
+        "function": "posterize",
+        "magnitude": 3,
+        "output_file": "delivery_posterize_3.png"
+    },
+    {
+        "file": "delivery.png",
+        "function": "posterize",
+        "magnitude": 4,
+        "output_file": "delivery_posterize_4.png"
+    },
+    {
+        "file": "delivery.png",
+        "function": "solarize",
+        "magnitude": 1,
+        "output_file": "delivery_solarize_1.png"
+    },
+    {
+        "file": "delivery.png",
+        "function": "solarize",
+        "magnitude": 2,
+        "output_file": "delivery_solarize_2.png"
+    },
+    {
+        "file": "delivery.png",
+        "function": "solarize",
+        "magnitude": 3,
+        "output_file": "delivery_solarize_3.png"
+    },
+    {
+        "file": "delivery.png",
+        "function": "solarize",
+        "magnitude": 4,
+        "output_file": "delivery_solarize_4.png"
+    },
+    {
+        "file": "delivery.png",
+        "function": "invert",
+        "magnitude": 1,
+        "output_file": "delivery_invert_1.png"
+    },
+    {
+        "file": "delivery.png",
+        "function": "invert",
+        "magnitude": 2,
+        "output_file": "delivery_invert_2.png"
+    },
+    {
+        "file": "delivery.png",
+        "function": "invert",
+        "magnitude": 3,
+        "output_file": "delivery_invert_3.png"
+    },
+    {
+        "file": "delivery.png",
+        "function": "invert",
+        "magnitude": 4,
+        "output_file": "delivery_invert_4.png"
+    },
+    {
+        "file": "delivery.png",
+        "function": "equalize",
+        "magnitude": 1,
+        "output_file": "delivery_equalize_1.png"
+    },
+    {
+        "file": "delivery.png",
+        "function": "equalize",
+        "magnitude": 2,
+        "output_file": "delivery_equalize_2.png"
+    },
+    {
+        "file": "delivery.png",
+        "function": "equalize",
+        "magnitude": 3,
+        "output_file": "delivery_equalize_3.png"
+    },
+    {
+        "file": "delivery.png",
+        "function": "equalize",
+        "magnitude": 4,
+        "output_file": "delivery_equalize_4.png"
+    },
+    {
+        "file": "delivery.png",
+        "function": "autocontrast",
+        "magnitude": 1,
+        "output_file": "delivery_autocontrast_1.png"
+    },
+    {
+        "file": "delivery.png",
+        "function": "autocontrast",
+        "magnitude": 2,
+        "output_file": "delivery_autocontrast_2.png"
+    },
+    {
+        "file": "delivery.png",
+        "function": "autocontrast",
+        "magnitude": 3,
+        "output_file": "delivery_autocontrast_3.png"
+    },
+    {
+        "file": "delivery.png",
+        "function": "autocontrast",
+        "magnitude": 4,
+        "output_file": "delivery_autocontrast_4.png"
+    },
+    {
+        "file": "delivery.png",
+        "function": "sharpness",
+        "magnitude": 1,
+        "output_file": "delivery_sharpness_1.png"
+    },
+    {
+        "file": "delivery.png",
+        "function": "sharpness",
+        "magnitude": 2,
+        "output_file": "delivery_sharpness_2.png"
+    },
+    {
+        "file": "delivery.png",
+        "function": "sharpness",
+        "magnitude": 3,
+        "output_file": "delivery_sharpness_3.png"
+    },
+    {
+        "file": "delivery.png",
+        "function": "sharpness",
+        "magnitude": 4,
+        "output_file": "delivery_sharpness_4.png"
+    },
+    {
+        "file": "delivery.png",
+        "function": "color",
+        "magnitude": 1,
+        "output_file": "delivery_color_1.png"
+    },
+    {
+        "file": "delivery.png",
+        "function": "color",
+        "magnitude": 2,
+        "output_file": "delivery_color_2.png"
+    },
+    {
+        "file": "delivery.png",
+        "function": "color",
+        "magnitude": 3,
+        "output_file": "delivery_color_3.png"
+    },
+    {
+        "file": "delivery.png",
+        "function": "color",
+        "magnitude": 4,
+        "output_file": "delivery_color_4.png"
+    },
+    {
+        "file": "delivery.png",
+        "function": "gaussianblur",
+        "magnitude": 1,
+        "output_file": "delivery_gaussianblur_1.png"
+    },
+    {
+        "file": "delivery.png",
+        "function": "gaussianblur",
+        "magnitude": 2,
+        "output_file": "delivery_gaussianblur_2.png"
+    },
+    {
+        "file": "delivery.png",
+        "function": "gaussianblur",
+        "magnitude": 3,
+        "output_file": "delivery_gaussianblur_3.png"
+    },
+    {
+        "file": "delivery.png",
+        "function": "gaussianblur",
+        "magnitude": 4,
+        "output_file": "delivery_gaussianblur_4.png"
+    },
+    {
+        "file": "delivery.png",
+        "function": "defocusblur",
+        "magnitude": 1,
+        "output_file": "delivery_defocusblur_1.png"
+    },
+    {
+        "file": "delivery.png",
+        "function": "defocusblur",
+        "magnitude": 2,
+        "output_file": "delivery_defocusblur_2.png"
+    },
+    {
+        "file": "delivery.png",
+        "function": "defocusblur",
+        "magnitude": 3,
+        "output_file": "delivery_defocusblur_3.png"
+    },
+    {
+        "file": "delivery.png",
+        "function": "defocusblur",
+        "magnitude": 4,
+        "output_file": "delivery_defocusblur_4.png"
+    },
+    {
+        "file": "delivery.png",
+        "function": "motionblur",
+        "magnitude": 1,
+        "output_file": "delivery_motionblur_1.png"
+    },
+    {
+        "file": "delivery.png",
+        "function": "motionblur",
+        "magnitude": 2,
+        "output_file": "delivery_motionblur_2.png"
+    },
+    {
+        "file": "delivery.png",
+        "function": "motionblur",
+        "magnitude": 3,
+        "output_file": "delivery_motionblur_3.png"
+    },
+    {
+        "file": "delivery.png",
+        "function": "motionblur",
+        "magnitude": 4,
+        "output_file": "delivery_motionblur_4.png"
+    },
+    {
+        "file": "delivery.png",
+        "error": "gaussian() got an unexpected keyword argument 'multichannel'"
     },
     {
         "file": "education.png",
@@ -311,25 +749,463 @@
     },
     {
         "file": "education.png",
-        "function": "grid",
+        "function": "fog",
         "magnitude": 1,
-        "output_file": "education_grid_1.png"
+        "output_file": "education_fog_1.png"
     },
     {
         "file": "education.png",
-        "function": "grid",
+        "function": "fog",
         "magnitude": 2,
-        "output_file": "education_grid_2.png"
+        "output_file": "education_fog_2.png"
     },
     {
         "file": "education.png",
-        "function": "grid",
+        "function": "fog",
         "magnitude": 3,
-        "output_file": "education_grid_3.png"
+        "output_file": "education_fog_3.png"
     },
     {
         "file": "education.png",
-        "error": "integer division or modulo by zero"
+        "function": "fog",
+        "magnitude": 4,
+        "output_file": "education_fog_4.png"
+    },
+    {
+        "file": "education.png",
+        "function": "snow",
+        "magnitude": 1,
+        "output_file": "education_snow_1.png"
+    },
+    {
+        "file": "education.png",
+        "function": "snow",
+        "magnitude": 2,
+        "output_file": "education_snow_2.png"
+    },
+    {
+        "file": "education.png",
+        "function": "snow",
+        "magnitude": 3,
+        "output_file": "education_snow_3.png"
+    },
+    {
+        "file": "education.png",
+        "function": "snow",
+        "magnitude": 4,
+        "output_file": "education_snow_4.png"
+    },
+    {
+        "file": "education.png",
+        "function": "frost",
+        "magnitude": 1,
+        "output_file": "education_frost_1.png"
+    },
+    {
+        "file": "education.png",
+        "function": "frost",
+        "magnitude": 2,
+        "output_file": "education_frost_2.png"
+    },
+    {
+        "file": "education.png",
+        "function": "frost",
+        "magnitude": 3,
+        "output_file": "education_frost_3.png"
+    },
+    {
+        "file": "education.png",
+        "function": "frost",
+        "magnitude": 4,
+        "output_file": "education_frost_4.png"
+    },
+    {
+        "file": "education.png",
+        "function": "rain",
+        "magnitude": 1,
+        "output_file": "education_rain_1.png"
+    },
+    {
+        "file": "education.png",
+        "function": "rain",
+        "magnitude": 2,
+        "output_file": "education_rain_2.png"
+    },
+    {
+        "file": "education.png",
+        "function": "rain",
+        "magnitude": 3,
+        "output_file": "education_rain_3.png"
+    },
+    {
+        "file": "education.png",
+        "function": "rain",
+        "magnitude": 4,
+        "output_file": "education_rain_4.png"
+    },
+    {
+        "file": "education.png",
+        "function": "shadow",
+        "magnitude": 1,
+        "output_file": "education_shadow_1.png"
+    },
+    {
+        "file": "education.png",
+        "function": "shadow",
+        "magnitude": 2,
+        "output_file": "education_shadow_2.png"
+    },
+    {
+        "file": "education.png",
+        "function": "shadow",
+        "magnitude": 3,
+        "output_file": "education_shadow_3.png"
+    },
+    {
+        "file": "education.png",
+        "function": "shadow",
+        "magnitude": 4,
+        "output_file": "education_shadow_4.png"
+    },
+    {
+        "file": "education.png",
+        "function": "contrast",
+        "magnitude": 1,
+        "output_file": "education_contrast_1.png"
+    },
+    {
+        "file": "education.png",
+        "function": "contrast",
+        "magnitude": 2,
+        "output_file": "education_contrast_2.png"
+    },
+    {
+        "file": "education.png",
+        "function": "contrast",
+        "magnitude": 3,
+        "output_file": "education_contrast_3.png"
+    },
+    {
+        "file": "education.png",
+        "function": "contrast",
+        "magnitude": 4,
+        "output_file": "education_contrast_4.png"
+    },
+    {
+        "file": "education.png",
+        "function": "brightness",
+        "magnitude": 1,
+        "output_file": "education_brightness_1.png"
+    },
+    {
+        "file": "education.png",
+        "function": "brightness",
+        "magnitude": 2,
+        "output_file": "education_brightness_2.png"
+    },
+    {
+        "file": "education.png",
+        "function": "brightness",
+        "magnitude": 3,
+        "output_file": "education_brightness_3.png"
+    },
+    {
+        "file": "education.png",
+        "function": "brightness",
+        "magnitude": 4,
+        "output_file": "education_brightness_4.png"
+    },
+    {
+        "file": "education.png",
+        "function": "jpegcompression",
+        "magnitude": 1,
+        "output_file": "education_jpegcompression_1.png"
+    },
+    {
+        "file": "education.png",
+        "function": "jpegcompression",
+        "magnitude": 2,
+        "output_file": "education_jpegcompression_2.png"
+    },
+    {
+        "file": "education.png",
+        "function": "jpegcompression",
+        "magnitude": 3,
+        "output_file": "education_jpegcompression_3.png"
+    },
+    {
+        "file": "education.png",
+        "function": "jpegcompression",
+        "magnitude": 4,
+        "output_file": "education_jpegcompression_4.png"
+    },
+    {
+        "file": "education.png",
+        "function": "pixelate",
+        "magnitude": 1,
+        "output_file": "education_pixelate_1.png"
+    },
+    {
+        "file": "education.png",
+        "function": "pixelate",
+        "magnitude": 2,
+        "output_file": "education_pixelate_2.png"
+    },
+    {
+        "file": "education.png",
+        "function": "pixelate",
+        "magnitude": 3,
+        "output_file": "education_pixelate_3.png"
+    },
+    {
+        "file": "education.png",
+        "function": "pixelate",
+        "magnitude": 4,
+        "output_file": "education_pixelate_4.png"
+    },
+    {
+        "file": "education.png",
+        "function": "posterize",
+        "magnitude": 1,
+        "output_file": "education_posterize_1.png"
+    },
+    {
+        "file": "education.png",
+        "function": "posterize",
+        "magnitude": 2,
+        "output_file": "education_posterize_2.png"
+    },
+    {
+        "file": "education.png",
+        "function": "posterize",
+        "magnitude": 3,
+        "output_file": "education_posterize_3.png"
+    },
+    {
+        "file": "education.png",
+        "function": "posterize",
+        "magnitude": 4,
+        "output_file": "education_posterize_4.png"
+    },
+    {
+        "file": "education.png",
+        "function": "solarize",
+        "magnitude": 1,
+        "output_file": "education_solarize_1.png"
+    },
+    {
+        "file": "education.png",
+        "function": "solarize",
+        "magnitude": 2,
+        "output_file": "education_solarize_2.png"
+    },
+    {
+        "file": "education.png",
+        "function": "solarize",
+        "magnitude": 3,
+        "output_file": "education_solarize_3.png"
+    },
+    {
+        "file": "education.png",
+        "function": "solarize",
+        "magnitude": 4,
+        "output_file": "education_solarize_4.png"
+    },
+    {
+        "file": "education.png",
+        "function": "invert",
+        "magnitude": 1,
+        "output_file": "education_invert_1.png"
+    },
+    {
+        "file": "education.png",
+        "function": "invert",
+        "magnitude": 2,
+        "output_file": "education_invert_2.png"
+    },
+    {
+        "file": "education.png",
+        "function": "invert",
+        "magnitude": 3,
+        "output_file": "education_invert_3.png"
+    },
+    {
+        "file": "education.png",
+        "function": "invert",
+        "magnitude": 4,
+        "output_file": "education_invert_4.png"
+    },
+    {
+        "file": "education.png",
+        "function": "equalize",
+        "magnitude": 1,
+        "output_file": "education_equalize_1.png"
+    },
+    {
+        "file": "education.png",
+        "function": "equalize",
+        "magnitude": 2,
+        "output_file": "education_equalize_2.png"
+    },
+    {
+        "file": "education.png",
+        "function": "equalize",
+        "magnitude": 3,
+        "output_file": "education_equalize_3.png"
+    },
+    {
+        "file": "education.png",
+        "function": "equalize",
+        "magnitude": 4,
+        "output_file": "education_equalize_4.png"
+    },
+    {
+        "file": "education.png",
+        "function": "autocontrast",
+        "magnitude": 1,
+        "output_file": "education_autocontrast_1.png"
+    },
+    {
+        "file": "education.png",
+        "function": "autocontrast",
+        "magnitude": 2,
+        "output_file": "education_autocontrast_2.png"
+    },
+    {
+        "file": "education.png",
+        "function": "autocontrast",
+        "magnitude": 3,
+        "output_file": "education_autocontrast_3.png"
+    },
+    {
+        "file": "education.png",
+        "function": "autocontrast",
+        "magnitude": 4,
+        "output_file": "education_autocontrast_4.png"
+    },
+    {
+        "file": "education.png",
+        "function": "sharpness",
+        "magnitude": 1,
+        "output_file": "education_sharpness_1.png"
+    },
+    {
+        "file": "education.png",
+        "function": "sharpness",
+        "magnitude": 2,
+        "output_file": "education_sharpness_2.png"
+    },
+    {
+        "file": "education.png",
+        "function": "sharpness",
+        "magnitude": 3,
+        "output_file": "education_sharpness_3.png"
+    },
+    {
+        "file": "education.png",
+        "function": "sharpness",
+        "magnitude": 4,
+        "output_file": "education_sharpness_4.png"
+    },
+    {
+        "file": "education.png",
+        "function": "color",
+        "magnitude": 1,
+        "output_file": "education_color_1.png"
+    },
+    {
+        "file": "education.png",
+        "function": "color",
+        "magnitude": 2,
+        "output_file": "education_color_2.png"
+    },
+    {
+        "file": "education.png",
+        "function": "color",
+        "magnitude": 3,
+        "output_file": "education_color_3.png"
+    },
+    {
+        "file": "education.png",
+        "function": "color",
+        "magnitude": 4,
+        "output_file": "education_color_4.png"
+    },
+    {
+        "file": "education.png",
+        "function": "gaussianblur",
+        "magnitude": 1,
+        "output_file": "education_gaussianblur_1.png"
+    },
+    {
+        "file": "education.png",
+        "function": "gaussianblur",
+        "magnitude": 2,
+        "output_file": "education_gaussianblur_2.png"
+    },
+    {
+        "file": "education.png",
+        "function": "gaussianblur",
+        "magnitude": 3,
+        "output_file": "education_gaussianblur_3.png"
+    },
+    {
+        "file": "education.png",
+        "function": "gaussianblur",
+        "magnitude": 4,
+        "output_file": "education_gaussianblur_4.png"
+    },
+    {
+        "file": "education.png",
+        "function": "defocusblur",
+        "magnitude": 1,
+        "output_file": "education_defocusblur_1.png"
+    },
+    {
+        "file": "education.png",
+        "function": "defocusblur",
+        "magnitude": 2,
+        "output_file": "education_defocusblur_2.png"
+    },
+    {
+        "file": "education.png",
+        "function": "defocusblur",
+        "magnitude": 3,
+        "output_file": "education_defocusblur_3.png"
+    },
+    {
+        "file": "education.png",
+        "function": "defocusblur",
+        "magnitude": 4,
+        "output_file": "education_defocusblur_4.png"
+    },
+    {
+        "file": "education.png",
+        "function": "motionblur",
+        "magnitude": 1,
+        "output_file": "education_motionblur_1.png"
+    },
+    {
+        "file": "education.png",
+        "function": "motionblur",
+        "magnitude": 2,
+        "output_file": "education_motionblur_2.png"
+    },
+    {
+        "file": "education.png",
+        "function": "motionblur",
+        "magnitude": 3,
+        "output_file": "education_motionblur_3.png"
+    },
+    {
+        "file": "education.png",
+        "function": "motionblur",
+        "magnitude": 4,
+        "output_file": "education_motionblur_4.png"
+    },
+    {
+        "file": "education.png",
+        "error": "gaussian() got an unexpected keyword argument 'multichannel'"
     },
     {
         "file": "manila.png",
@@ -477,25 +1353,463 @@
     },
     {
         "file": "manila.png",
-        "function": "grid",
+        "function": "fog",
         "magnitude": 1,
-        "output_file": "manila_grid_1.png"
+        "output_file": "manila_fog_1.png"
     },
     {
         "file": "manila.png",
-        "function": "grid",
+        "function": "fog",
         "magnitude": 2,
-        "output_file": "manila_grid_2.png"
+        "output_file": "manila_fog_2.png"
     },
     {
         "file": "manila.png",
-        "function": "grid",
+        "function": "fog",
         "magnitude": 3,
-        "output_file": "manila_grid_3.png"
+        "output_file": "manila_fog_3.png"
     },
     {
         "file": "manila.png",
-        "error": "integer division or modulo by zero"
+        "function": "fog",
+        "magnitude": 4,
+        "output_file": "manila_fog_4.png"
+    },
+    {
+        "file": "manila.png",
+        "function": "snow",
+        "magnitude": 1,
+        "output_file": "manila_snow_1.png"
+    },
+    {
+        "file": "manila.png",
+        "function": "snow",
+        "magnitude": 2,
+        "output_file": "manila_snow_2.png"
+    },
+    {
+        "file": "manila.png",
+        "function": "snow",
+        "magnitude": 3,
+        "output_file": "manila_snow_3.png"
+    },
+    {
+        "file": "manila.png",
+        "function": "snow",
+        "magnitude": 4,
+        "output_file": "manila_snow_4.png"
+    },
+    {
+        "file": "manila.png",
+        "function": "frost",
+        "magnitude": 1,
+        "output_file": "manila_frost_1.png"
+    },
+    {
+        "file": "manila.png",
+        "function": "frost",
+        "magnitude": 2,
+        "output_file": "manila_frost_2.png"
+    },
+    {
+        "file": "manila.png",
+        "function": "frost",
+        "magnitude": 3,
+        "output_file": "manila_frost_3.png"
+    },
+    {
+        "file": "manila.png",
+        "function": "frost",
+        "magnitude": 4,
+        "output_file": "manila_frost_4.png"
+    },
+    {
+        "file": "manila.png",
+        "function": "rain",
+        "magnitude": 1,
+        "output_file": "manila_rain_1.png"
+    },
+    {
+        "file": "manila.png",
+        "function": "rain",
+        "magnitude": 2,
+        "output_file": "manila_rain_2.png"
+    },
+    {
+        "file": "manila.png",
+        "function": "rain",
+        "magnitude": 3,
+        "output_file": "manila_rain_3.png"
+    },
+    {
+        "file": "manila.png",
+        "function": "rain",
+        "magnitude": 4,
+        "output_file": "manila_rain_4.png"
+    },
+    {
+        "file": "manila.png",
+        "function": "shadow",
+        "magnitude": 1,
+        "output_file": "manila_shadow_1.png"
+    },
+    {
+        "file": "manila.png",
+        "function": "shadow",
+        "magnitude": 2,
+        "output_file": "manila_shadow_2.png"
+    },
+    {
+        "file": "manila.png",
+        "function": "shadow",
+        "magnitude": 3,
+        "output_file": "manila_shadow_3.png"
+    },
+    {
+        "file": "manila.png",
+        "function": "shadow",
+        "magnitude": 4,
+        "output_file": "manila_shadow_4.png"
+    },
+    {
+        "file": "manila.png",
+        "function": "contrast",
+        "magnitude": 1,
+        "output_file": "manila_contrast_1.png"
+    },
+    {
+        "file": "manila.png",
+        "function": "contrast",
+        "magnitude": 2,
+        "output_file": "manila_contrast_2.png"
+    },
+    {
+        "file": "manila.png",
+        "function": "contrast",
+        "magnitude": 3,
+        "output_file": "manila_contrast_3.png"
+    },
+    {
+        "file": "manila.png",
+        "function": "contrast",
+        "magnitude": 4,
+        "output_file": "manila_contrast_4.png"
+    },
+    {
+        "file": "manila.png",
+        "function": "brightness",
+        "magnitude": 1,
+        "output_file": "manila_brightness_1.png"
+    },
+    {
+        "file": "manila.png",
+        "function": "brightness",
+        "magnitude": 2,
+        "output_file": "manila_brightness_2.png"
+    },
+    {
+        "file": "manila.png",
+        "function": "brightness",
+        "magnitude": 3,
+        "output_file": "manila_brightness_3.png"
+    },
+    {
+        "file": "manila.png",
+        "function": "brightness",
+        "magnitude": 4,
+        "output_file": "manila_brightness_4.png"
+    },
+    {
+        "file": "manila.png",
+        "function": "jpegcompression",
+        "magnitude": 1,
+        "output_file": "manila_jpegcompression_1.png"
+    },
+    {
+        "file": "manila.png",
+        "function": "jpegcompression",
+        "magnitude": 2,
+        "output_file": "manila_jpegcompression_2.png"
+    },
+    {
+        "file": "manila.png",
+        "function": "jpegcompression",
+        "magnitude": 3,
+        "output_file": "manila_jpegcompression_3.png"
+    },
+    {
+        "file": "manila.png",
+        "function": "jpegcompression",
+        "magnitude": 4,
+        "output_file": "manila_jpegcompression_4.png"
+    },
+    {
+        "file": "manila.png",
+        "function": "pixelate",
+        "magnitude": 1,
+        "output_file": "manila_pixelate_1.png"
+    },
+    {
+        "file": "manila.png",
+        "function": "pixelate",
+        "magnitude": 2,
+        "output_file": "manila_pixelate_2.png"
+    },
+    {
+        "file": "manila.png",
+        "function": "pixelate",
+        "magnitude": 3,
+        "output_file": "manila_pixelate_3.png"
+    },
+    {
+        "file": "manila.png",
+        "function": "pixelate",
+        "magnitude": 4,
+        "output_file": "manila_pixelate_4.png"
+    },
+    {
+        "file": "manila.png",
+        "function": "posterize",
+        "magnitude": 1,
+        "output_file": "manila_posterize_1.png"
+    },
+    {
+        "file": "manila.png",
+        "function": "posterize",
+        "magnitude": 2,
+        "output_file": "manila_posterize_2.png"
+    },
+    {
+        "file": "manila.png",
+        "function": "posterize",
+        "magnitude": 3,
+        "output_file": "manila_posterize_3.png"
+    },
+    {
+        "file": "manila.png",
+        "function": "posterize",
+        "magnitude": 4,
+        "output_file": "manila_posterize_4.png"
+    },
+    {
+        "file": "manila.png",
+        "function": "solarize",
+        "magnitude": 1,
+        "output_file": "manila_solarize_1.png"
+    },
+    {
+        "file": "manila.png",
+        "function": "solarize",
+        "magnitude": 2,
+        "output_file": "manila_solarize_2.png"
+    },
+    {
+        "file": "manila.png",
+        "function": "solarize",
+        "magnitude": 3,
+        "output_file": "manila_solarize_3.png"
+    },
+    {
+        "file": "manila.png",
+        "function": "solarize",
+        "magnitude": 4,
+        "output_file": "manila_solarize_4.png"
+    },
+    {
+        "file": "manila.png",
+        "function": "invert",
+        "magnitude": 1,
+        "output_file": "manila_invert_1.png"
+    },
+    {
+        "file": "manila.png",
+        "function": "invert",
+        "magnitude": 2,
+        "output_file": "manila_invert_2.png"
+    },
+    {
+        "file": "manila.png",
+        "function": "invert",
+        "magnitude": 3,
+        "output_file": "manila_invert_3.png"
+    },
+    {
+        "file": "manila.png",
+        "function": "invert",
+        "magnitude": 4,
+        "output_file": "manila_invert_4.png"
+    },
+    {
+        "file": "manila.png",
+        "function": "equalize",
+        "magnitude": 1,
+        "output_file": "manila_equalize_1.png"
+    },
+    {
+        "file": "manila.png",
+        "function": "equalize",
+        "magnitude": 2,
+        "output_file": "manila_equalize_2.png"
+    },
+    {
+        "file": "manila.png",
+        "function": "equalize",
+        "magnitude": 3,
+        "output_file": "manila_equalize_3.png"
+    },
+    {
+        "file": "manila.png",
+        "function": "equalize",
+        "magnitude": 4,
+        "output_file": "manila_equalize_4.png"
+    },
+    {
+        "file": "manila.png",
+        "function": "autocontrast",
+        "magnitude": 1,
+        "output_file": "manila_autocontrast_1.png"
+    },
+    {
+        "file": "manila.png",
+        "function": "autocontrast",
+        "magnitude": 2,
+        "output_file": "manila_autocontrast_2.png"
+    },
+    {
+        "file": "manila.png",
+        "function": "autocontrast",
+        "magnitude": 3,
+        "output_file": "manila_autocontrast_3.png"
+    },
+    {
+        "file": "manila.png",
+        "function": "autocontrast",
+        "magnitude": 4,
+        "output_file": "manila_autocontrast_4.png"
+    },
+    {
+        "file": "manila.png",
+        "function": "sharpness",
+        "magnitude": 1,
+        "output_file": "manila_sharpness_1.png"
+    },
+    {
+        "file": "manila.png",
+        "function": "sharpness",
+        "magnitude": 2,
+        "output_file": "manila_sharpness_2.png"
+    },
+    {
+        "file": "manila.png",
+        "function": "sharpness",
+        "magnitude": 3,
+        "output_file": "manila_sharpness_3.png"
+    },
+    {
+        "file": "manila.png",
+        "function": "sharpness",
+        "magnitude": 4,
+        "output_file": "manila_sharpness_4.png"
+    },
+    {
+        "file": "manila.png",
+        "function": "color",
+        "magnitude": 1,
+        "output_file": "manila_color_1.png"
+    },
+    {
+        "file": "manila.png",
+        "function": "color",
+        "magnitude": 2,
+        "output_file": "manila_color_2.png"
+    },
+    {
+        "file": "manila.png",
+        "function": "color",
+        "magnitude": 3,
+        "output_file": "manila_color_3.png"
+    },
+    {
+        "file": "manila.png",
+        "function": "color",
+        "magnitude": 4,
+        "output_file": "manila_color_4.png"
+    },
+    {
+        "file": "manila.png",
+        "function": "gaussianblur",
+        "magnitude": 1,
+        "output_file": "manila_gaussianblur_1.png"
+    },
+    {
+        "file": "manila.png",
+        "function": "gaussianblur",
+        "magnitude": 2,
+        "output_file": "manila_gaussianblur_2.png"
+    },
+    {
+        "file": "manila.png",
+        "function": "gaussianblur",
+        "magnitude": 3,
+        "output_file": "manila_gaussianblur_3.png"
+    },
+    {
+        "file": "manila.png",
+        "function": "gaussianblur",
+        "magnitude": 4,
+        "output_file": "manila_gaussianblur_4.png"
+    },
+    {
+        "file": "manila.png",
+        "function": "defocusblur",
+        "magnitude": 1,
+        "output_file": "manila_defocusblur_1.png"
+    },
+    {
+        "file": "manila.png",
+        "function": "defocusblur",
+        "magnitude": 2,
+        "output_file": "manila_defocusblur_2.png"
+    },
+    {
+        "file": "manila.png",
+        "function": "defocusblur",
+        "magnitude": 3,
+        "output_file": "manila_defocusblur_3.png"
+    },
+    {
+        "file": "manila.png",
+        "function": "defocusblur",
+        "magnitude": 4,
+        "output_file": "manila_defocusblur_4.png"
+    },
+    {
+        "file": "manila.png",
+        "function": "motionblur",
+        "magnitude": 1,
+        "output_file": "manila_motionblur_1.png"
+    },
+    {
+        "file": "manila.png",
+        "function": "motionblur",
+        "magnitude": 2,
+        "output_file": "manila_motionblur_2.png"
+    },
+    {
+        "file": "manila.png",
+        "function": "motionblur",
+        "magnitude": 3,
+        "output_file": "manila_motionblur_3.png"
+    },
+    {
+        "file": "manila.png",
+        "function": "motionblur",
+        "magnitude": 4,
+        "output_file": "manila_motionblur_4.png"
+    },
+    {
+        "file": "manila.png",
+        "error": "gaussian() got an unexpected keyword argument 'multichannel'"
     },
     {
         "file": "nokia.png",
@@ -643,25 +1957,463 @@
     },
     {
         "file": "nokia.png",
-        "function": "grid",
+        "function": "fog",
         "magnitude": 1,
-        "output_file": "nokia_grid_1.png"
+        "output_file": "nokia_fog_1.png"
     },
     {
         "file": "nokia.png",
-        "function": "grid",
+        "function": "fog",
         "magnitude": 2,
-        "output_file": "nokia_grid_2.png"
+        "output_file": "nokia_fog_2.png"
     },
     {
         "file": "nokia.png",
-        "function": "grid",
+        "function": "fog",
         "magnitude": 3,
-        "output_file": "nokia_grid_3.png"
+        "output_file": "nokia_fog_3.png"
     },
     {
         "file": "nokia.png",
-        "error": "integer division or modulo by zero"
+        "function": "fog",
+        "magnitude": 4,
+        "output_file": "nokia_fog_4.png"
+    },
+    {
+        "file": "nokia.png",
+        "function": "snow",
+        "magnitude": 1,
+        "output_file": "nokia_snow_1.png"
+    },
+    {
+        "file": "nokia.png",
+        "function": "snow",
+        "magnitude": 2,
+        "output_file": "nokia_snow_2.png"
+    },
+    {
+        "file": "nokia.png",
+        "function": "snow",
+        "magnitude": 3,
+        "output_file": "nokia_snow_3.png"
+    },
+    {
+        "file": "nokia.png",
+        "function": "snow",
+        "magnitude": 4,
+        "output_file": "nokia_snow_4.png"
+    },
+    {
+        "file": "nokia.png",
+        "function": "frost",
+        "magnitude": 1,
+        "output_file": "nokia_frost_1.png"
+    },
+    {
+        "file": "nokia.png",
+        "function": "frost",
+        "magnitude": 2,
+        "output_file": "nokia_frost_2.png"
+    },
+    {
+        "file": "nokia.png",
+        "function": "frost",
+        "magnitude": 3,
+        "output_file": "nokia_frost_3.png"
+    },
+    {
+        "file": "nokia.png",
+        "function": "frost",
+        "magnitude": 4,
+        "output_file": "nokia_frost_4.png"
+    },
+    {
+        "file": "nokia.png",
+        "function": "rain",
+        "magnitude": 1,
+        "output_file": "nokia_rain_1.png"
+    },
+    {
+        "file": "nokia.png",
+        "function": "rain",
+        "magnitude": 2,
+        "output_file": "nokia_rain_2.png"
+    },
+    {
+        "file": "nokia.png",
+        "function": "rain",
+        "magnitude": 3,
+        "output_file": "nokia_rain_3.png"
+    },
+    {
+        "file": "nokia.png",
+        "function": "rain",
+        "magnitude": 4,
+        "output_file": "nokia_rain_4.png"
+    },
+    {
+        "file": "nokia.png",
+        "function": "shadow",
+        "magnitude": 1,
+        "output_file": "nokia_shadow_1.png"
+    },
+    {
+        "file": "nokia.png",
+        "function": "shadow",
+        "magnitude": 2,
+        "output_file": "nokia_shadow_2.png"
+    },
+    {
+        "file": "nokia.png",
+        "function": "shadow",
+        "magnitude": 3,
+        "output_file": "nokia_shadow_3.png"
+    },
+    {
+        "file": "nokia.png",
+        "function": "shadow",
+        "magnitude": 4,
+        "output_file": "nokia_shadow_4.png"
+    },
+    {
+        "file": "nokia.png",
+        "function": "contrast",
+        "magnitude": 1,
+        "output_file": "nokia_contrast_1.png"
+    },
+    {
+        "file": "nokia.png",
+        "function": "contrast",
+        "magnitude": 2,
+        "output_file": "nokia_contrast_2.png"
+    },
+    {
+        "file": "nokia.png",
+        "function": "contrast",
+        "magnitude": 3,
+        "output_file": "nokia_contrast_3.png"
+    },
+    {
+        "file": "nokia.png",
+        "function": "contrast",
+        "magnitude": 4,
+        "output_file": "nokia_contrast_4.png"
+    },
+    {
+        "file": "nokia.png",
+        "function": "brightness",
+        "magnitude": 1,
+        "output_file": "nokia_brightness_1.png"
+    },
+    {
+        "file": "nokia.png",
+        "function": "brightness",
+        "magnitude": 2,
+        "output_file": "nokia_brightness_2.png"
+    },
+    {
+        "file": "nokia.png",
+        "function": "brightness",
+        "magnitude": 3,
+        "output_file": "nokia_brightness_3.png"
+    },
+    {
+        "file": "nokia.png",
+        "function": "brightness",
+        "magnitude": 4,
+        "output_file": "nokia_brightness_4.png"
+    },
+    {
+        "file": "nokia.png",
+        "function": "jpegcompression",
+        "magnitude": 1,
+        "output_file": "nokia_jpegcompression_1.png"
+    },
+    {
+        "file": "nokia.png",
+        "function": "jpegcompression",
+        "magnitude": 2,
+        "output_file": "nokia_jpegcompression_2.png"
+    },
+    {
+        "file": "nokia.png",
+        "function": "jpegcompression",
+        "magnitude": 3,
+        "output_file": "nokia_jpegcompression_3.png"
+    },
+    {
+        "file": "nokia.png",
+        "function": "jpegcompression",
+        "magnitude": 4,
+        "output_file": "nokia_jpegcompression_4.png"
+    },
+    {
+        "file": "nokia.png",
+        "function": "pixelate",
+        "magnitude": 1,
+        "output_file": "nokia_pixelate_1.png"
+    },
+    {
+        "file": "nokia.png",
+        "function": "pixelate",
+        "magnitude": 2,
+        "output_file": "nokia_pixelate_2.png"
+    },
+    {
+        "file": "nokia.png",
+        "function": "pixelate",
+        "magnitude": 3,
+        "output_file": "nokia_pixelate_3.png"
+    },
+    {
+        "file": "nokia.png",
+        "function": "pixelate",
+        "magnitude": 4,
+        "output_file": "nokia_pixelate_4.png"
+    },
+    {
+        "file": "nokia.png",
+        "function": "posterize",
+        "magnitude": 1,
+        "output_file": "nokia_posterize_1.png"
+    },
+    {
+        "file": "nokia.png",
+        "function": "posterize",
+        "magnitude": 2,
+        "output_file": "nokia_posterize_2.png"
+    },
+    {
+        "file": "nokia.png",
+        "function": "posterize",
+        "magnitude": 3,
+        "output_file": "nokia_posterize_3.png"
+    },
+    {
+        "file": "nokia.png",
+        "function": "posterize",
+        "magnitude": 4,
+        "output_file": "nokia_posterize_4.png"
+    },
+    {
+        "file": "nokia.png",
+        "function": "solarize",
+        "magnitude": 1,
+        "output_file": "nokia_solarize_1.png"
+    },
+    {
+        "file": "nokia.png",
+        "function": "solarize",
+        "magnitude": 2,
+        "output_file": "nokia_solarize_2.png"
+    },
+    {
+        "file": "nokia.png",
+        "function": "solarize",
+        "magnitude": 3,
+        "output_file": "nokia_solarize_3.png"
+    },
+    {
+        "file": "nokia.png",
+        "function": "solarize",
+        "magnitude": 4,
+        "output_file": "nokia_solarize_4.png"
+    },
+    {
+        "file": "nokia.png",
+        "function": "invert",
+        "magnitude": 1,
+        "output_file": "nokia_invert_1.png"
+    },
+    {
+        "file": "nokia.png",
+        "function": "invert",
+        "magnitude": 2,
+        "output_file": "nokia_invert_2.png"
+    },
+    {
+        "file": "nokia.png",
+        "function": "invert",
+        "magnitude": 3,
+        "output_file": "nokia_invert_3.png"
+    },
+    {
+        "file": "nokia.png",
+        "function": "invert",
+        "magnitude": 4,
+        "output_file": "nokia_invert_4.png"
+    },
+    {
+        "file": "nokia.png",
+        "function": "equalize",
+        "magnitude": 1,
+        "output_file": "nokia_equalize_1.png"
+    },
+    {
+        "file": "nokia.png",
+        "function": "equalize",
+        "magnitude": 2,
+        "output_file": "nokia_equalize_2.png"
+    },
+    {
+        "file": "nokia.png",
+        "function": "equalize",
+        "magnitude": 3,
+        "output_file": "nokia_equalize_3.png"
+    },
+    {
+        "file": "nokia.png",
+        "function": "equalize",
+        "magnitude": 4,
+        "output_file": "nokia_equalize_4.png"
+    },
+    {
+        "file": "nokia.png",
+        "function": "autocontrast",
+        "magnitude": 1,
+        "output_file": "nokia_autocontrast_1.png"
+    },
+    {
+        "file": "nokia.png",
+        "function": "autocontrast",
+        "magnitude": 2,
+        "output_file": "nokia_autocontrast_2.png"
+    },
+    {
+        "file": "nokia.png",
+        "function": "autocontrast",
+        "magnitude": 3,
+        "output_file": "nokia_autocontrast_3.png"
+    },
+    {
+        "file": "nokia.png",
+        "function": "autocontrast",
+        "magnitude": 4,
+        "output_file": "nokia_autocontrast_4.png"
+    },
+    {
+        "file": "nokia.png",
+        "function": "sharpness",
+        "magnitude": 1,
+        "output_file": "nokia_sharpness_1.png"
+    },
+    {
+        "file": "nokia.png",
+        "function": "sharpness",
+        "magnitude": 2,
+        "output_file": "nokia_sharpness_2.png"
+    },
+    {
+        "file": "nokia.png",
+        "function": "sharpness",
+        "magnitude": 3,
+        "output_file": "nokia_sharpness_3.png"
+    },
+    {
+        "file": "nokia.png",
+        "function": "sharpness",
+        "magnitude": 4,
+        "output_file": "nokia_sharpness_4.png"
+    },
+    {
+        "file": "nokia.png",
+        "function": "color",
+        "magnitude": 1,
+        "output_file": "nokia_color_1.png"
+    },
+    {
+        "file": "nokia.png",
+        "function": "color",
+        "magnitude": 2,
+        "output_file": "nokia_color_2.png"
+    },
+    {
+        "file": "nokia.png",
+        "function": "color",
+        "magnitude": 3,
+        "output_file": "nokia_color_3.png"
+    },
+    {
+        "file": "nokia.png",
+        "function": "color",
+        "magnitude": 4,
+        "output_file": "nokia_color_4.png"
+    },
+    {
+        "file": "nokia.png",
+        "function": "gaussianblur",
+        "magnitude": 1,
+        "output_file": "nokia_gaussianblur_1.png"
+    },
+    {
+        "file": "nokia.png",
+        "function": "gaussianblur",
+        "magnitude": 2,
+        "output_file": "nokia_gaussianblur_2.png"
+    },
+    {
+        "file": "nokia.png",
+        "function": "gaussianblur",
+        "magnitude": 3,
+        "output_file": "nokia_gaussianblur_3.png"
+    },
+    {
+        "file": "nokia.png",
+        "function": "gaussianblur",
+        "magnitude": 4,
+        "output_file": "nokia_gaussianblur_4.png"
+    },
+    {
+        "file": "nokia.png",
+        "function": "defocusblur",
+        "magnitude": 1,
+        "output_file": "nokia_defocusblur_1.png"
+    },
+    {
+        "file": "nokia.png",
+        "function": "defocusblur",
+        "magnitude": 2,
+        "output_file": "nokia_defocusblur_2.png"
+    },
+    {
+        "file": "nokia.png",
+        "function": "defocusblur",
+        "magnitude": 3,
+        "output_file": "nokia_defocusblur_3.png"
+    },
+    {
+        "file": "nokia.png",
+        "function": "defocusblur",
+        "magnitude": 4,
+        "output_file": "nokia_defocusblur_4.png"
+    },
+    {
+        "file": "nokia.png",
+        "function": "motionblur",
+        "magnitude": 1,
+        "output_file": "nokia_motionblur_1.png"
+    },
+    {
+        "file": "nokia.png",
+        "function": "motionblur",
+        "magnitude": 2,
+        "output_file": "nokia_motionblur_2.png"
+    },
+    {
+        "file": "nokia.png",
+        "function": "motionblur",
+        "magnitude": 3,
+        "output_file": "nokia_motionblur_3.png"
+    },
+    {
+        "file": "nokia.png",
+        "function": "motionblur",
+        "magnitude": 4,
+        "output_file": "nokia_motionblur_4.png"
+    },
+    {
+        "file": "nokia.png",
+        "error": "gaussian() got an unexpected keyword argument 'multichannel'"
     },
     {
         "file": "telekom.png",
@@ -809,24 +2561,462 @@
     },
     {
         "file": "telekom.png",
-        "function": "grid",
+        "function": "fog",
         "magnitude": 1,
-        "output_file": "telekom_grid_1.png"
+        "output_file": "telekom_fog_1.png"
     },
     {
         "file": "telekom.png",
-        "function": "grid",
+        "function": "fog",
         "magnitude": 2,
-        "output_file": "telekom_grid_2.png"
+        "output_file": "telekom_fog_2.png"
     },
     {
         "file": "telekom.png",
-        "function": "grid",
+        "function": "fog",
         "magnitude": 3,
-        "output_file": "telekom_grid_3.png"
+        "output_file": "telekom_fog_3.png"
     },
     {
         "file": "telekom.png",
-        "error": "integer division or modulo by zero"
+        "function": "fog",
+        "magnitude": 4,
+        "output_file": "telekom_fog_4.png"
+    },
+    {
+        "file": "telekom.png",
+        "function": "snow",
+        "magnitude": 1,
+        "output_file": "telekom_snow_1.png"
+    },
+    {
+        "file": "telekom.png",
+        "function": "snow",
+        "magnitude": 2,
+        "output_file": "telekom_snow_2.png"
+    },
+    {
+        "file": "telekom.png",
+        "function": "snow",
+        "magnitude": 3,
+        "output_file": "telekom_snow_3.png"
+    },
+    {
+        "file": "telekom.png",
+        "function": "snow",
+        "magnitude": 4,
+        "output_file": "telekom_snow_4.png"
+    },
+    {
+        "file": "telekom.png",
+        "function": "frost",
+        "magnitude": 1,
+        "output_file": "telekom_frost_1.png"
+    },
+    {
+        "file": "telekom.png",
+        "function": "frost",
+        "magnitude": 2,
+        "output_file": "telekom_frost_2.png"
+    },
+    {
+        "file": "telekom.png",
+        "function": "frost",
+        "magnitude": 3,
+        "output_file": "telekom_frost_3.png"
+    },
+    {
+        "file": "telekom.png",
+        "function": "frost",
+        "magnitude": 4,
+        "output_file": "telekom_frost_4.png"
+    },
+    {
+        "file": "telekom.png",
+        "function": "rain",
+        "magnitude": 1,
+        "output_file": "telekom_rain_1.png"
+    },
+    {
+        "file": "telekom.png",
+        "function": "rain",
+        "magnitude": 2,
+        "output_file": "telekom_rain_2.png"
+    },
+    {
+        "file": "telekom.png",
+        "function": "rain",
+        "magnitude": 3,
+        "output_file": "telekom_rain_3.png"
+    },
+    {
+        "file": "telekom.png",
+        "function": "rain",
+        "magnitude": 4,
+        "output_file": "telekom_rain_4.png"
+    },
+    {
+        "file": "telekom.png",
+        "function": "shadow",
+        "magnitude": 1,
+        "output_file": "telekom_shadow_1.png"
+    },
+    {
+        "file": "telekom.png",
+        "function": "shadow",
+        "magnitude": 2,
+        "output_file": "telekom_shadow_2.png"
+    },
+    {
+        "file": "telekom.png",
+        "function": "shadow",
+        "magnitude": 3,
+        "output_file": "telekom_shadow_3.png"
+    },
+    {
+        "file": "telekom.png",
+        "function": "shadow",
+        "magnitude": 4,
+        "output_file": "telekom_shadow_4.png"
+    },
+    {
+        "file": "telekom.png",
+        "function": "contrast",
+        "magnitude": 1,
+        "output_file": "telekom_contrast_1.png"
+    },
+    {
+        "file": "telekom.png",
+        "function": "contrast",
+        "magnitude": 2,
+        "output_file": "telekom_contrast_2.png"
+    },
+    {
+        "file": "telekom.png",
+        "function": "contrast",
+        "magnitude": 3,
+        "output_file": "telekom_contrast_3.png"
+    },
+    {
+        "file": "telekom.png",
+        "function": "contrast",
+        "magnitude": 4,
+        "output_file": "telekom_contrast_4.png"
+    },
+    {
+        "file": "telekom.png",
+        "function": "brightness",
+        "magnitude": 1,
+        "output_file": "telekom_brightness_1.png"
+    },
+    {
+        "file": "telekom.png",
+        "function": "brightness",
+        "magnitude": 2,
+        "output_file": "telekom_brightness_2.png"
+    },
+    {
+        "file": "telekom.png",
+        "function": "brightness",
+        "magnitude": 3,
+        "output_file": "telekom_brightness_3.png"
+    },
+    {
+        "file": "telekom.png",
+        "function": "brightness",
+        "magnitude": 4,
+        "output_file": "telekom_brightness_4.png"
+    },
+    {
+        "file": "telekom.png",
+        "function": "jpegcompression",
+        "magnitude": 1,
+        "output_file": "telekom_jpegcompression_1.png"
+    },
+    {
+        "file": "telekom.png",
+        "function": "jpegcompression",
+        "magnitude": 2,
+        "output_file": "telekom_jpegcompression_2.png"
+    },
+    {
+        "file": "telekom.png",
+        "function": "jpegcompression",
+        "magnitude": 3,
+        "output_file": "telekom_jpegcompression_3.png"
+    },
+    {
+        "file": "telekom.png",
+        "function": "jpegcompression",
+        "magnitude": 4,
+        "output_file": "telekom_jpegcompression_4.png"
+    },
+    {
+        "file": "telekom.png",
+        "function": "pixelate",
+        "magnitude": 1,
+        "output_file": "telekom_pixelate_1.png"
+    },
+    {
+        "file": "telekom.png",
+        "function": "pixelate",
+        "magnitude": 2,
+        "output_file": "telekom_pixelate_2.png"
+    },
+    {
+        "file": "telekom.png",
+        "function": "pixelate",
+        "magnitude": 3,
+        "output_file": "telekom_pixelate_3.png"
+    },
+    {
+        "file": "telekom.png",
+        "function": "pixelate",
+        "magnitude": 4,
+        "output_file": "telekom_pixelate_4.png"
+    },
+    {
+        "file": "telekom.png",
+        "function": "posterize",
+        "magnitude": 1,
+        "output_file": "telekom_posterize_1.png"
+    },
+    {
+        "file": "telekom.png",
+        "function": "posterize",
+        "magnitude": 2,
+        "output_file": "telekom_posterize_2.png"
+    },
+    {
+        "file": "telekom.png",
+        "function": "posterize",
+        "magnitude": 3,
+        "output_file": "telekom_posterize_3.png"
+    },
+    {
+        "file": "telekom.png",
+        "function": "posterize",
+        "magnitude": 4,
+        "output_file": "telekom_posterize_4.png"
+    },
+    {
+        "file": "telekom.png",
+        "function": "solarize",
+        "magnitude": 1,
+        "output_file": "telekom_solarize_1.png"
+    },
+    {
+        "file": "telekom.png",
+        "function": "solarize",
+        "magnitude": 2,
+        "output_file": "telekom_solarize_2.png"
+    },
+    {
+        "file": "telekom.png",
+        "function": "solarize",
+        "magnitude": 3,
+        "output_file": "telekom_solarize_3.png"
+    },
+    {
+        "file": "telekom.png",
+        "function": "solarize",
+        "magnitude": 4,
+        "output_file": "telekom_solarize_4.png"
+    },
+    {
+        "file": "telekom.png",
+        "function": "invert",
+        "magnitude": 1,
+        "output_file": "telekom_invert_1.png"
+    },
+    {
+        "file": "telekom.png",
+        "function": "invert",
+        "magnitude": 2,
+        "output_file": "telekom_invert_2.png"
+    },
+    {
+        "file": "telekom.png",
+        "function": "invert",
+        "magnitude": 3,
+        "output_file": "telekom_invert_3.png"
+    },
+    {
+        "file": "telekom.png",
+        "function": "invert",
+        "magnitude": 4,
+        "output_file": "telekom_invert_4.png"
+    },
+    {
+        "file": "telekom.png",
+        "function": "equalize",
+        "magnitude": 1,
+        "output_file": "telekom_equalize_1.png"
+    },
+    {
+        "file": "telekom.png",
+        "function": "equalize",
+        "magnitude": 2,
+        "output_file": "telekom_equalize_2.png"
+    },
+    {
+        "file": "telekom.png",
+        "function": "equalize",
+        "magnitude": 3,
+        "output_file": "telekom_equalize_3.png"
+    },
+    {
+        "file": "telekom.png",
+        "function": "equalize",
+        "magnitude": 4,
+        "output_file": "telekom_equalize_4.png"
+    },
+    {
+        "file": "telekom.png",
+        "function": "autocontrast",
+        "magnitude": 1,
+        "output_file": "telekom_autocontrast_1.png"
+    },
+    {
+        "file": "telekom.png",
+        "function": "autocontrast",
+        "magnitude": 2,
+        "output_file": "telekom_autocontrast_2.png"
+    },
+    {
+        "file": "telekom.png",
+        "function": "autocontrast",
+        "magnitude": 3,
+        "output_file": "telekom_autocontrast_3.png"
+    },
+    {
+        "file": "telekom.png",
+        "function": "autocontrast",
+        "magnitude": 4,
+        "output_file": "telekom_autocontrast_4.png"
+    },
+    {
+        "file": "telekom.png",
+        "function": "sharpness",
+        "magnitude": 1,
+        "output_file": "telekom_sharpness_1.png"
+    },
+    {
+        "file": "telekom.png",
+        "function": "sharpness",
+        "magnitude": 2,
+        "output_file": "telekom_sharpness_2.png"
+    },
+    {
+        "file": "telekom.png",
+        "function": "sharpness",
+        "magnitude": 3,
+        "output_file": "telekom_sharpness_3.png"
+    },
+    {
+        "file": "telekom.png",
+        "function": "sharpness",
+        "magnitude": 4,
+        "output_file": "telekom_sharpness_4.png"
+    },
+    {
+        "file": "telekom.png",
+        "function": "color",
+        "magnitude": 1,
+        "output_file": "telekom_color_1.png"
+    },
+    {
+        "file": "telekom.png",
+        "function": "color",
+        "magnitude": 2,
+        "output_file": "telekom_color_2.png"
+    },
+    {
+        "file": "telekom.png",
+        "function": "color",
+        "magnitude": 3,
+        "output_file": "telekom_color_3.png"
+    },
+    {
+        "file": "telekom.png",
+        "function": "color",
+        "magnitude": 4,
+        "output_file": "telekom_color_4.png"
+    },
+    {
+        "file": "telekom.png",
+        "function": "gaussianblur",
+        "magnitude": 1,
+        "output_file": "telekom_gaussianblur_1.png"
+    },
+    {
+        "file": "telekom.png",
+        "function": "gaussianblur",
+        "magnitude": 2,
+        "output_file": "telekom_gaussianblur_2.png"
+    },
+    {
+        "file": "telekom.png",
+        "function": "gaussianblur",
+        "magnitude": 3,
+        "output_file": "telekom_gaussianblur_3.png"
+    },
+    {
+        "file": "telekom.png",
+        "function": "gaussianblur",
+        "magnitude": 4,
+        "output_file": "telekom_gaussianblur_4.png"
+    },
+    {
+        "file": "telekom.png",
+        "function": "defocusblur",
+        "magnitude": 1,
+        "output_file": "telekom_defocusblur_1.png"
+    },
+    {
+        "file": "telekom.png",
+        "function": "defocusblur",
+        "magnitude": 2,
+        "output_file": "telekom_defocusblur_2.png"
+    },
+    {
+        "file": "telekom.png",
+        "function": "defocusblur",
+        "magnitude": 3,
+        "output_file": "telekom_defocusblur_3.png"
+    },
+    {
+        "file": "telekom.png",
+        "function": "defocusblur",
+        "magnitude": 4,
+        "output_file": "telekom_defocusblur_4.png"
+    },
+    {
+        "file": "telekom.png",
+        "function": "motionblur",
+        "magnitude": 1,
+        "output_file": "telekom_motionblur_1.png"
+    },
+    {
+        "file": "telekom.png",
+        "function": "motionblur",
+        "magnitude": 2,
+        "output_file": "telekom_motionblur_2.png"
+    },
+    {
+        "file": "telekom.png",
+        "function": "motionblur",
+        "magnitude": 3,
+        "output_file": "telekom_motionblur_3.png"
+    },
+    {
+        "file": "telekom.png",
+        "function": "motionblur",
+        "magnitude": 4,
+        "output_file": "telekom_motionblur_4.png"
+    },
+    {
+        "file": "telekom.png",
+        "error": "gaussian() got an unexpected keyword argument 'multichannel'"
     }
 ]

@@ -58,12 +58,12 @@ def main():
     augmentation_functions = [
         (Curve, "curve"), (Distort, "distort"), (Stretch, "stretch"),
         (Perspective, "perspective"), (Rotate, "rotate"), (Shrink, "shrink"),
-        (Grid, "grid"), (VGrid, "vgrid"), (HGrid, "hgrid"), (RectGrid, "rectgrid"), (EllipseGrid, "ellipsegrid"),
+        
         (Fog, "fog"), (Snow, "snow"), (Frost, "frost"), (Rain, "rain"), (Shadow, "shadow"),
         (Contrast, "contrast"), (Brightness, "brightness"), (JpegCompression, "jpegcompression"), (Pixelate, "pixelate"),
         (Posterize, "posterize"), (Solarize, "solarize"), (Invert, "invert"), (Equalize, "equalize"), (AutoContrast, "autocontrast"), (Sharpness, "sharpness"), (Color, "color"),
         (GaussianBlur, "gaussianblur"), (DefocusBlur, "defocusblur"), (MotionBlur, "motionblur"), (GlassBlur, "glassblur"), (ZoomBlur, "zoomblur")
-    ]
+    ]#(Grid, "grid"), (VGrid, "vgrid"), (HGrid, "hgrid"), (RectGrid, "rectgrid"), (EllipseGrid, "ellipsegrid"), ---add later 
 
     # Apply each function with magnitudes from 1 to max_mag
     for file_name in png_files:
