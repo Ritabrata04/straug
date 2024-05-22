@@ -1,0 +1,832 @@
+[
+    {
+        "file": "delivery.png",
+        "function": "curve",
+        "magnitude": 1,
+        "output_file": "delivery_curve_1.png"
+    },
+    {
+        "file": "delivery.png",
+        "function": "curve",
+        "magnitude": 2,
+        "output_file": "delivery_curve_2.png"
+    },
+    {
+        "file": "delivery.png",
+        "function": "curve",
+        "magnitude": 3,
+        "output_file": "delivery_curve_3.png"
+    },
+    {
+        "file": "delivery.png",
+        "function": "curve",
+        "magnitude": 4,
+        "output_file": "delivery_curve_4.png"
+    },
+    {
+        "file": "delivery.png",
+        "function": "distort",
+        "magnitude": 1,
+        "output_file": "delivery_distort_1.png"
+    },
+    {
+        "file": "delivery.png",
+        "function": "distort",
+        "magnitude": 2,
+        "output_file": "delivery_distort_2.png"
+    },
+    {
+        "file": "delivery.png",
+        "function": "distort",
+        "magnitude": 3,
+        "output_file": "delivery_distort_3.png"
+    },
+    {
+        "file": "delivery.png",
+        "function": "distort",
+        "magnitude": 4,
+        "output_file": "delivery_distort_4.png"
+    },
+    {
+        "file": "delivery.png",
+        "function": "stretch",
+        "magnitude": 1,
+        "output_file": "delivery_stretch_1.png"
+    },
+    {
+        "file": "delivery.png",
+        "function": "stretch",
+        "magnitude": 2,
+        "output_file": "delivery_stretch_2.png"
+    },
+    {
+        "file": "delivery.png",
+        "function": "stretch",
+        "magnitude": 3,
+        "output_file": "delivery_stretch_3.png"
+    },
+    {
+        "file": "delivery.png",
+        "function": "stretch",
+        "magnitude": 4,
+        "output_file": "delivery_stretch_4.png"
+    },
+    {
+        "file": "delivery.png",
+        "function": "perspective",
+        "magnitude": 1,
+        "output_file": "delivery_perspective_1.png"
+    },
+    {
+        "file": "delivery.png",
+        "function": "perspective",
+        "magnitude": 2,
+        "output_file": "delivery_perspective_2.png"
+    },
+    {
+        "file": "delivery.png",
+        "function": "perspective",
+        "magnitude": 3,
+        "output_file": "delivery_perspective_3.png"
+    },
+    {
+        "file": "delivery.png",
+        "function": "perspective",
+        "magnitude": 4,
+        "output_file": "delivery_perspective_4.png"
+    },
+    {
+        "file": "delivery.png",
+        "function": "rotate",
+        "magnitude": 1,
+        "output_file": "delivery_rotate_1.png"
+    },
+    {
+        "file": "delivery.png",
+        "function": "rotate",
+        "magnitude": 2,
+        "output_file": "delivery_rotate_2.png"
+    },
+    {
+        "file": "delivery.png",
+        "function": "rotate",
+        "magnitude": 3,
+        "output_file": "delivery_rotate_3.png"
+    },
+    {
+        "file": "delivery.png",
+        "function": "rotate",
+        "magnitude": 4,
+        "output_file": "delivery_rotate_4.png"
+    },
+    {
+        "file": "delivery.png",
+        "function": "shrink",
+        "magnitude": 1,
+        "output_file": "delivery_shrink_1.png"
+    },
+    {
+        "file": "delivery.png",
+        "function": "shrink",
+        "magnitude": 2,
+        "output_file": "delivery_shrink_2.png"
+    },
+    {
+        "file": "delivery.png",
+        "function": "shrink",
+        "magnitude": 3,
+        "output_file": "delivery_shrink_3.png"
+    },
+    {
+        "file": "delivery.png",
+        "function": "shrink",
+        "magnitude": 4,
+        "output_file": "delivery_shrink_4.png"
+    },
+    {
+        "file": "delivery.png",
+        "function": "grid",
+        "magnitude": 1,
+        "output_file": "delivery_grid_1.png"
+    },
+    {
+        "file": "delivery.png",
+        "function": "grid",
+        "magnitude": 2,
+        "output_file": "delivery_grid_2.png"
+    },
+    {
+        "file": "delivery.png",
+        "function": "grid",
+        "magnitude": 3,
+        "output_file": "delivery_grid_3.png"
+    },
+    {
+        "file": "delivery.png",
+        "error": "integer division or modulo by zero"
+    },
+    {
+        "file": "education.png",
+        "function": "curve",
+        "magnitude": 1,
+        "output_file": "education_curve_1.png"
+    },
+    {
+        "file": "education.png",
+        "function": "curve",
+        "magnitude": 2,
+        "output_file": "education_curve_2.png"
+    },
+    {
+        "file": "education.png",
+        "function": "curve",
+        "magnitude": 3,
+        "output_file": "education_curve_3.png"
+    },
+    {
+        "file": "education.png",
+        "function": "curve",
+        "magnitude": 4,
+        "output_file": "education_curve_4.png"
+    },
+    {
+        "file": "education.png",
+        "function": "distort",
+        "magnitude": 1,
+        "output_file": "education_distort_1.png"
+    },
+    {
+        "file": "education.png",
+        "function": "distort",
+        "magnitude": 2,
+        "output_file": "education_distort_2.png"
+    },
+    {
+        "file": "education.png",
+        "function": "distort",
+        "magnitude": 3,
+        "output_file": "education_distort_3.png"
+    },
+    {
+        "file": "education.png",
+        "function": "distort",
+        "magnitude": 4,
+        "output_file": "education_distort_4.png"
+    },
+    {
+        "file": "education.png",
+        "function": "stretch",
+        "magnitude": 1,
+        "output_file": "education_stretch_1.png"
+    },
+    {
+        "file": "education.png",
+        "function": "stretch",
+        "magnitude": 2,
+        "output_file": "education_stretch_2.png"
+    },
+    {
+        "file": "education.png",
+        "function": "stretch",
+        "magnitude": 3,
+        "output_file": "education_stretch_3.png"
+    },
+    {
+        "file": "education.png",
+        "function": "stretch",
+        "magnitude": 4,
+        "output_file": "education_stretch_4.png"
+    },
+    {
+        "file": "education.png",
+        "function": "perspective",
+        "magnitude": 1,
+        "output_file": "education_perspective_1.png"
+    },
+    {
+        "file": "education.png",
+        "function": "perspective",
+        "magnitude": 2,
+        "output_file": "education_perspective_2.png"
+    },
+    {
+        "file": "education.png",
+        "function": "perspective",
+        "magnitude": 3,
+        "output_file": "education_perspective_3.png"
+    },
+    {
+        "file": "education.png",
+        "function": "perspective",
+        "magnitude": 4,
+        "output_file": "education_perspective_4.png"
+    },
+    {
+        "file": "education.png",
+        "function": "rotate",
+        "magnitude": 1,
+        "output_file": "education_rotate_1.png"
+    },
+    {
+        "file": "education.png",
+        "function": "rotate",
+        "magnitude": 2,
+        "output_file": "education_rotate_2.png"
+    },
+    {
+        "file": "education.png",
+        "function": "rotate",
+        "magnitude": 3,
+        "output_file": "education_rotate_3.png"
+    },
+    {
+        "file": "education.png",
+        "function": "rotate",
+        "magnitude": 4,
+        "output_file": "education_rotate_4.png"
+    },
+    {
+        "file": "education.png",
+        "function": "shrink",
+        "magnitude": 1,
+        "output_file": "education_shrink_1.png"
+    },
+    {
+        "file": "education.png",
+        "function": "shrink",
+        "magnitude": 2,
+        "output_file": "education_shrink_2.png"
+    },
+    {
+        "file": "education.png",
+        "function": "shrink",
+        "magnitude": 3,
+        "output_file": "education_shrink_3.png"
+    },
+    {
+        "file": "education.png",
+        "function": "shrink",
+        "magnitude": 4,
+        "output_file": "education_shrink_4.png"
+    },
+    {
+        "file": "education.png",
+        "function": "grid",
+        "magnitude": 1,
+        "output_file": "education_grid_1.png"
+    },
+    {
+        "file": "education.png",
+        "function": "grid",
+        "magnitude": 2,
+        "output_file": "education_grid_2.png"
+    },
+    {
+        "file": "education.png",
+        "function": "grid",
+        "magnitude": 3,
+        "output_file": "education_grid_3.png"
+    },
+    {
+        "file": "education.png",
+        "error": "integer division or modulo by zero"
+    },
+    {
+        "file": "manila.png",
+        "function": "curve",
+        "magnitude": 1,
+        "output_file": "manila_curve_1.png"
+    },
+    {
+        "file": "manila.png",
+        "function": "curve",
+        "magnitude": 2,
+        "output_file": "manila_curve_2.png"
+    },
+    {
+        "file": "manila.png",
+        "function": "curve",
+        "magnitude": 3,
+        "output_file": "manila_curve_3.png"
+    },
+    {
+        "file": "manila.png",
+        "function": "curve",
+        "magnitude": 4,
+        "output_file": "manila_curve_4.png"
+    },
+    {
+        "file": "manila.png",
+        "function": "distort",
+        "magnitude": 1,
+        "output_file": "manila_distort_1.png"
+    },
+    {
+        "file": "manila.png",
+        "function": "distort",
+        "magnitude": 2,
+        "output_file": "manila_distort_2.png"
+    },
+    {
+        "file": "manila.png",
+        "function": "distort",
+        "magnitude": 3,
+        "output_file": "manila_distort_3.png"
+    },
+    {
+        "file": "manila.png",
+        "function": "distort",
+        "magnitude": 4,
+        "output_file": "manila_distort_4.png"
+    },
+    {
+        "file": "manila.png",
+        "function": "stretch",
+        "magnitude": 1,
+        "output_file": "manila_stretch_1.png"
+    },
+    {
+        "file": "manila.png",
+        "function": "stretch",
+        "magnitude": 2,
+        "output_file": "manila_stretch_2.png"
+    },
+    {
+        "file": "manila.png",
+        "function": "stretch",
+        "magnitude": 3,
+        "output_file": "manila_stretch_3.png"
+    },
+    {
+        "file": "manila.png",
+        "function": "stretch",
+        "magnitude": 4,
+        "output_file": "manila_stretch_4.png"
+    },
+    {
+        "file": "manila.png",
+        "function": "perspective",
+        "magnitude": 1,
+        "output_file": "manila_perspective_1.png"
+    },
+    {
+        "file": "manila.png",
+        "function": "perspective",
+        "magnitude": 2,
+        "output_file": "manila_perspective_2.png"
+    },
+    {
+        "file": "manila.png",
+        "function": "perspective",
+        "magnitude": 3,
+        "output_file": "manila_perspective_3.png"
+    },
+    {
+        "file": "manila.png",
+        "function": "perspective",
+        "magnitude": 4,
+        "output_file": "manila_perspective_4.png"
+    },
+    {
+        "file": "manila.png",
+        "function": "rotate",
+        "magnitude": 1,
+        "output_file": "manila_rotate_1.png"
+    },
+    {
+        "file": "manila.png",
+        "function": "rotate",
+        "magnitude": 2,
+        "output_file": "manila_rotate_2.png"
+    },
+    {
+        "file": "manila.png",
+        "function": "rotate",
+        "magnitude": 3,
+        "output_file": "manila_rotate_3.png"
+    },
+    {
+        "file": "manila.png",
+        "function": "rotate",
+        "magnitude": 4,
+        "output_file": "manila_rotate_4.png"
+    },
+    {
+        "file": "manila.png",
+        "function": "shrink",
+        "magnitude": 1,
+        "output_file": "manila_shrink_1.png"
+    },
+    {
+        "file": "manila.png",
+        "function": "shrink",
+        "magnitude": 2,
+        "output_file": "manila_shrink_2.png"
+    },
+    {
+        "file": "manila.png",
+        "function": "shrink",
+        "magnitude": 3,
+        "output_file": "manila_shrink_3.png"
+    },
+    {
+        "file": "manila.png",
+        "function": "shrink",
+        "magnitude": 4,
+        "output_file": "manila_shrink_4.png"
+    },
+    {
+        "file": "manila.png",
+        "function": "grid",
+        "magnitude": 1,
+        "output_file": "manila_grid_1.png"
+    },
+    {
+        "file": "manila.png",
+        "function": "grid",
+        "magnitude": 2,
+        "output_file": "manila_grid_2.png"
+    },
+    {
+        "file": "manila.png",
+        "function": "grid",
+        "magnitude": 3,
+        "output_file": "manila_grid_3.png"
+    },
+    {
+        "file": "manila.png",
+        "error": "integer division or modulo by zero"
+    },
+    {
+        "file": "nokia.png",
+        "function": "curve",
+        "magnitude": 1,
+        "output_file": "nokia_curve_1.png"
+    },
+    {
+        "file": "nokia.png",
+        "function": "curve",
+        "magnitude": 2,
+        "output_file": "nokia_curve_2.png"
+    },
+    {
+        "file": "nokia.png",
+        "function": "curve",
+        "magnitude": 3,
+        "output_file": "nokia_curve_3.png"
+    },
+    {
+        "file": "nokia.png",
+        "function": "curve",
+        "magnitude": 4,
+        "output_file": "nokia_curve_4.png"
+    },
+    {
+        "file": "nokia.png",
+        "function": "distort",
+        "magnitude": 1,
+        "output_file": "nokia_distort_1.png"
+    },
+    {
+        "file": "nokia.png",
+        "function": "distort",
+        "magnitude": 2,
+        "output_file": "nokia_distort_2.png"
+    },
+    {
+        "file": "nokia.png",
+        "function": "distort",
+        "magnitude": 3,
+        "output_file": "nokia_distort_3.png"
+    },
+    {
+        "file": "nokia.png",
+        "function": "distort",
+        "magnitude": 4,
+        "output_file": "nokia_distort_4.png"
+    },
+    {
+        "file": "nokia.png",
+        "function": "stretch",
+        "magnitude": 1,
+        "output_file": "nokia_stretch_1.png"
+    },
+    {
+        "file": "nokia.png",
+        "function": "stretch",
+        "magnitude": 2,
+        "output_file": "nokia_stretch_2.png"
+    },
+    {
+        "file": "nokia.png",
+        "function": "stretch",
+        "magnitude": 3,
+        "output_file": "nokia_stretch_3.png"
+    },
+    {
+        "file": "nokia.png",
+        "function": "stretch",
+        "magnitude": 4,
+        "output_file": "nokia_stretch_4.png"
+    },
+    {
+        "file": "nokia.png",
+        "function": "perspective",
+        "magnitude": 1,
+        "output_file": "nokia_perspective_1.png"
+    },
+    {
+        "file": "nokia.png",
+        "function": "perspective",
+        "magnitude": 2,
+        "output_file": "nokia_perspective_2.png"
+    },
+    {
+        "file": "nokia.png",
+        "function": "perspective",
+        "magnitude": 3,
+        "output_file": "nokia_perspective_3.png"
+    },
+    {
+        "file": "nokia.png",
+        "function": "perspective",
+        "magnitude": 4,
+        "output_file": "nokia_perspective_4.png"
+    },
+    {
+        "file": "nokia.png",
+        "function": "rotate",
+        "magnitude": 1,
+        "output_file": "nokia_rotate_1.png"
+    },
+    {
+        "file": "nokia.png",
+        "function": "rotate",
+        "magnitude": 2,
+        "output_file": "nokia_rotate_2.png"
+    },
+    {
+        "file": "nokia.png",
+        "function": "rotate",
+        "magnitude": 3,
+        "output_file": "nokia_rotate_3.png"
+    },
+    {
+        "file": "nokia.png",
+        "function": "rotate",
+        "magnitude": 4,
+        "output_file": "nokia_rotate_4.png"
+    },
+    {
+        "file": "nokia.png",
+        "function": "shrink",
+        "magnitude": 1,
+        "output_file": "nokia_shrink_1.png"
+    },
+    {
+        "file": "nokia.png",
+        "function": "shrink",
+        "magnitude": 2,
+        "output_file": "nokia_shrink_2.png"
+    },
+    {
+        "file": "nokia.png",
+        "function": "shrink",
+        "magnitude": 3,
+        "output_file": "nokia_shrink_3.png"
+    },
+    {
+        "file": "nokia.png",
+        "function": "shrink",
+        "magnitude": 4,
+        "output_file": "nokia_shrink_4.png"
+    },
+    {
+        "file": "nokia.png",
+        "function": "grid",
+        "magnitude": 1,
+        "output_file": "nokia_grid_1.png"
+    },
+    {
+        "file": "nokia.png",
+        "function": "grid",
+        "magnitude": 2,
+        "output_file": "nokia_grid_2.png"
+    },
+    {
+        "file": "nokia.png",
+        "function": "grid",
+        "magnitude": 3,
+        "output_file": "nokia_grid_3.png"
+    },
+    {
+        "file": "nokia.png",
+        "error": "integer division or modulo by zero"
+    },
+    {
+        "file": "telekom.png",
+        "function": "curve",
+        "magnitude": 1,
+        "output_file": "telekom_curve_1.png"
+    },
+    {
+        "file": "telekom.png",
+        "function": "curve",
+        "magnitude": 2,
+        "output_file": "telekom_curve_2.png"
+    },
+    {
+        "file": "telekom.png",
+        "function": "curve",
+        "magnitude": 3,
+        "output_file": "telekom_curve_3.png"
+    },
+    {
+        "file": "telekom.png",
+        "function": "curve",
+        "magnitude": 4,
+        "output_file": "telekom_curve_4.png"
+    },
+    {
+        "file": "telekom.png",
+        "function": "distort",
+        "magnitude": 1,
+        "output_file": "telekom_distort_1.png"
+    },
+    {
+        "file": "telekom.png",
+        "function": "distort",
+        "magnitude": 2,
+        "output_file": "telekom_distort_2.png"
+    },
+    {
+        "file": "telekom.png",
+        "function": "distort",
+        "magnitude": 3,
+        "output_file": "telekom_distort_3.png"
+    },
+    {
+        "file": "telekom.png",
+        "function": "distort",
+        "magnitude": 4,
+        "output_file": "telekom_distort_4.png"
+    },
+    {
+        "file": "telekom.png",
+        "function": "stretch",
+        "magnitude": 1,
+        "output_file": "telekom_stretch_1.png"
+    },
+    {
+        "file": "telekom.png",
+        "function": "stretch",
+        "magnitude": 2,
+        "output_file": "telekom_stretch_2.png"
+    },
+    {
+        "file": "telekom.png",
+        "function": "stretch",
+        "magnitude": 3,
+        "output_file": "telekom_stretch_3.png"
+    },
+    {
+        "file": "telekom.png",
+        "function": "stretch",
+        "magnitude": 4,
+        "output_file": "telekom_stretch_4.png"
+    },
+    {
+        "file": "telekom.png",
+        "function": "perspective",
+        "magnitude": 1,
+        "output_file": "telekom_perspective_1.png"
+    },
+    {
+        "file": "telekom.png",
+        "function": "perspective",
+        "magnitude": 2,
+        "output_file": "telekom_perspective_2.png"
+    },
+    {
+        "file": "telekom.png",
+        "function": "perspective",
+        "magnitude": 3,
+        "output_file": "telekom_perspective_3.png"
+    },
+    {
+        "file": "telekom.png",
+        "function": "perspective",
+        "magnitude": 4,
+        "output_file": "telekom_perspective_4.png"
+    },
+    {
+        "file": "telekom.png",
+        "function": "rotate",
+        "magnitude": 1,
+        "output_file": "telekom_rotate_1.png"
+    },
+    {
+        "file": "telekom.png",
+        "function": "rotate",
+        "magnitude": 2,
+        "output_file": "telekom_rotate_2.png"
+    },
+    {
+        "file": "telekom.png",
+        "function": "rotate",
+        "magnitude": 3,
+        "output_file": "telekom_rotate_3.png"
+    },
+    {
+        "file": "telekom.png",
+        "function": "rotate",
+        "magnitude": 4,
+        "output_file": "telekom_rotate_4.png"
+    },
+    {
+        "file": "telekom.png",
+        "function": "shrink",
+        "magnitude": 1,
+        "output_file": "telekom_shrink_1.png"
+    },
+    {
+        "file": "telekom.png",
+        "function": "shrink",
+        "magnitude": 2,
+        "output_file": "telekom_shrink_2.png"
+    },
+    {
+        "file": "telekom.png",
+        "function": "shrink",
+        "magnitude": 3,
+        "output_file": "telekom_shrink_3.png"
+    },
+    {
+        "file": "telekom.png",
+        "function": "shrink",
+        "magnitude": 4,
+        "output_file": "telekom_shrink_4.png"
+    },
+    {
+        "file": "telekom.png",
+        "function": "grid",
+        "magnitude": 1,
+        "output_file": "telekom_grid_1.png"
+    },
+    {
+        "file": "telekom.png",
+        "function": "grid",
+        "magnitude": 2,
+        "output_file": "telekom_grid_2.png"
+    },
+    {
+        "file": "telekom.png",
+        "function": "grid",
+        "magnitude": 3,
+        "output_file": "telekom_grid_3.png"
+    },
+    {
+        "file": "telekom.png",
+        "error": "integer division or modulo by zero"
+    }
+]
